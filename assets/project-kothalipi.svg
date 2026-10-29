@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 170" width="100%" height="auto" role="img" aria-labelledby="kTitle kDesc">
+  <title id="kTitle">KothaLipi AI Multimodal Bengali Engine Architecture</title>
+  <desc id="kDesc">Schematic showing Document &amp; Speech Ingestion, Multimodal Bangla NLP Core, and Dialect Alignment Pipeline.</desc>
+
+  <defs>
+    <linearGradient id="pKBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#001433" />
+      <stop offset="100%" stop-color="#000D21" />
+    </linearGradient>
+    <style>
+      .mono { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="580" height="170" rx="8" fill="url(#pKBg)" stroke="#24334D" stroke-width="1.2" />
+  
+  <!-- Header Bar -->
+  <g class="mono" font-size="9" fill="#71809A" letter-spacing="1">
+    <text x="18" y="24">SYSTEM SCHEMATIC // MULTIMODAL BENGALI LINGUISTICS &amp; ASR</text>
+    <circle cx="560" cy="20" r="3" fill="#2E4AF9" />
+  </g>
+  <line x1="18" y1="32" x2="562" y2="32" stroke="#24334D" stroke-width="0.8" />
+
+  <!-- Node 1 -->
+  <g transform="translate(18, 48)">
+    <rect width="150" height="72" rx="5" fill="#001B44" stroke="#24334D" stroke-width="1" />
+    <text class="mono" x="12" y="22" font-size="8.5" fill="#2E4AF9" font-weight="700">INGESTION STREAM</text>
+    <text class="sans" x="12" y="42" font-size="12" font-weight="700" fill="#F5F7FF">Speech &amp; OCR</text>
+    <text class="sans" x="12" y="58" font-size="9.5" fill="#A8B3C7">Acoustic &amp; Image Feed</text>
+  </g>
+
+  <!-- Flow 1 -->
+  <g transform="translate(172, 84)">
+    <line x1="0" y1="0" x2="28" y2="0" stroke="#2E4AF9" stroke-width="1.4" stroke-dasharray="3 2" />
+    <polygon points="28,0 22,-3 22,3" fill="#2E4AF9" />
+  </g>
+
+  <!-- Node 2 (Core Engine) -->
+  <g transform="translate(204, 48)">
+    <rect width="170" height="72" rx="5" fill="#001E4D" stroke="#2E4AF9" stroke-width="1.2" />
+    <text class="mono" x="12" y="22" font-size="8.5" fill="#7B92FF" font-weight="700">NLP TRANSFORMER</text>
+    <text class="sans" x="12" y="42" font-size="12" font-weight="700" fill="#F5F7FF">Bangla Academy NLP</text>
+    <text class="sans" x="12" y="58" font-size="9.5" fill="#DCE6FF">Sadhu-Cholit Alignment</text>
+  </g>
+
+  <!-- Flow 2 -->
+  <g transform="translate(378, 84)">
+    <line x1="0" y1="0" x2="28" y2="0" stroke="#2E4AF9" stroke-width="1.4" stroke-dasharray="3 2" />
+    <polygon points="28,0 22,-3 22,3" fill="#2E4AF9" />
+  </g>
+
+  <!-- Node 3 -->
+  <g transform="translate(410, 48)">
+    <rect width="152" height="72" rx="5" fill="#001B44" stroke="#24334D" stroke-width="1" />
+    <text class="mono" x="12" y="22" font-size="8.5" fill="#2E4AF9" font-weight="700">ACOUSTIC OUTPUT</text>
+    <text class="sans" x="12" y="42" font-size="12" font-weight="700" fill="#F5F7FF">Dialect STT</text>
+    <text class="sans" x="12" y="58" font-size="9.5" fill="#A8B3C7">Regional Speech-to-Text</text>
+  </g>
+
+  <!-- Footer Tags -->
+  <g class="mono" font-size="8.5" fill="#71809A" letter-spacing="1">
+    <text x="18" y="148">STACK: TYPESCRIPT · PYTHON · TRANSFORMERS · DEEP LEARNING · ASR</text>
+    <text x="562" y="148" text-anchor="end" fill="#2E4AF9">LIVE STUDIO ENGINE</text>
+  </g>
+</svg>
+

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 32" width="100%" height="32" fill="none" role="presentation">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E4AF9" stop-opacity="0" />
+      <stop offset="20%" stop-color="#24334D" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#2E4AF9" stop-opacity="0.9" />
+      <stop offset="80%" stop-color="#24334D" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#2E4AF9" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <!-- Main Hairline -->
+  <line x1="0" y1="16" x2="1200" y2="16" stroke="url(#divGrad)" stroke-width="1" />
+  
+  <!-- Subtle Ticks -->
+  <line x1="150" y1="12" x2="150" y2="20" stroke="#24334D" stroke-width="1" />
+  <line x1="300" y1="13" x2="300" y2="19" stroke="#24334D" stroke-width="1" />
+  <line x1="900" y1="13" x2="900" y2="19" stroke="#24334D" stroke-width="1" />
+  <line x1="1050" y1="12" x2="1050" y2="20" stroke="#24334D" stroke-width="1" />
+  
+  <!-- Center Geometric Marker -->
+  <g transform="translate(600, 16)">
+    <circle cx="0" cy="0" r="8" fill="#000F26" stroke="#24334D" stroke-width="1" />
+    <polygon points="0,-4 4,0 0,4 -4,0" fill="#2E4AF9" />
+  </g>
+</svg>
+

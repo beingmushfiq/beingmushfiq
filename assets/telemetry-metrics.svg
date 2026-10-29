@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%" height="auto" role="img" aria-labelledby="statTitle statDesc">
+  <title id="statTitle">Mushfiqur Rahman — Verified Engineering Telemetry</title>
+  <desc id="statDesc">Summary of verified engineering metrics, core technology competencies, and full-stack systems built by Mushfiqur Rahman.</desc>
+
+  <defs>
+    <linearGradient id="tBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000A1A" />
+      <stop offset="60%" stop-color="#000F26" />
+      <stop offset="100%" stop-color="#001433" />
+    </linearGradient>
+
+    <linearGradient id="tCard" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00163A" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#000F26" stop-opacity="0.9" />
+    </linearGradient>
+
+    <pattern id="tGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#24334D" stroke-width="0.5" stroke-opacity="0.25" />
+    </pattern>
+
+    <style>
+      .mono { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="200" rx="10" fill="url(#tBg)" stroke="#24334D" stroke-width="1.2" />
+  <rect width="1200" height="200" rx="10" fill="url(#tGrid)" />
+
+  <!-- Top Metadata Bar -->
+  <g class="mono" font-size="10" fill="#71809A" letter-spacing="1.5">
+    <text x="36" y="28">ATELIER TELEMETRY // VERIFIED SYSTEM BENCHMARKS</text>
+    <text x="1164" y="28" text-anchor="end">AUDITED OCT 2026</text>
+  </g>
+  <line x1="36" y1="38" x2="1164" y2="38" stroke="#24334D" stroke-width="0.8" />
+
+  <!-- Stat 1 -->
+  <g transform="translate(36, 52)">
+    <rect width="260" height="126" rx="6" fill="url(#tCard)" stroke="#24334D" stroke-width="1" />
+    <circle cx="20" cy="24" r="3" fill="#2E4AF9" />
+    <text class="mono" x="32" y="27" font-size="9.5" fill="#71809A" letter-spacing="1">PUBLIC SYSTEMS</text>
+    <text class="sans" x="20" y="68" font-size="34" font-weight="800" fill="#F5F7FF">63</text>
+    <text class="mono" x="72" y="58" font-size="14" font-weight="600" fill="#2E4AF9">+</text>
+    <text class="sans" x="20" y="94" font-size="11.5" fill="#A8B3C7">Public Repositories</text>
+    <text class="sans" x="20" y="110" font-size="10.5" fill="#71809A">Production &amp; Open Engines</text>
+  </g>
+
+  <!-- Stat 2 -->
+  <g transform="translate(318, 52)">
+    <rect width="268" height="126" rx="6" fill="url(#tCard)" stroke="#24334D" stroke-width="1" />
+    <circle cx="20" cy="24" r="3" fill="#2E4AF9" />
+    <text class="mono" x="32" y="27" font-size="9.5" fill="#71809A" letter-spacing="1">PRIMARY FRONTEND</text>
+    <text class="sans" x="20" y="68" font-size="25" font-weight="800" fill="#F5F7FF">React 19 <tspan font-size="16" font-weight="500" fill="#DCE6FF">/ TS</tspan></text>
+    <text class="sans" x="20" y="94" font-size="11.5" fill="#A8B3C7">TypeScript &amp; Tailwind CSS v4</text>
+    <text class="sans" x="20" y="110" font-size="10.5" fill="#71809A">WebGL 3D, PWAs &amp; Framer Motion</text>
+  </g>
+
+  <!-- Stat 3 -->
+  <g transform="translate(608, 52)">
+    <rect width="268" height="126" rx="6" fill="url(#tCard)" stroke="#24334D" stroke-width="1" />
+    <circle cx="20" cy="24" r="3" fill="#2E4AF9" />
+    <text class="mono" x="32" y="27" font-size="9.5" fill="#71809A" letter-spacing="1">BACKEND PLATFORMS</text>
+    <text class="sans" x="20" y="68" font-size="25" font-weight="800" fill="#F5F7FF">Laravel <tspan font-size="16" font-weight="500" fill="#DCE6FF">&amp; Node</tspan></text>
+    <text class="sans" x="20" y="94" font-size="11.5" fill="#A8B3C7">Multi-Tenant Architectures</text>
+    <text class="sans" x="20" y="110" font-size="10.5" fill="#71809A">Double-Entry Paisa Ledgers &amp; APIs</text>
+  </g>
+
+  <!-- Stat 4 -->
+  <g transform="translate(898, 52)">
+    <rect width="266" height="126" rx="6" fill="url(#tCard)" stroke="#2E4AF9" stroke-width="1.2" />
+    <circle cx="20" cy="24" r="3" fill="#7B92FF" />
+    <text class="mono" x="32" y="27" font-size="9.5" fill="#DCE6FF" letter-spacing="1">AI &amp; INTELLIGENCE</text>
+    <text class="sans" x="20" y="68" font-size="25" font-weight="800" fill="#F5F7FF">Autonomous</text>
+    <text class="sans" x="20" y="94" font-size="11.5" fill="#A8B3C7">Multimodal Bengali NLP &amp; OCR</text>
+    <text class="sans" x="20" y="110" font-size="10.5" fill="#71809A">51-Tool Desktop Agents &amp; SHAP</text>
+  </g>
+</svg>
+

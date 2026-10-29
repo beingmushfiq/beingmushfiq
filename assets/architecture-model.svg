@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" height="auto" role="img" aria-labelledby="modelTitle modelDesc">
+  <title id="modelTitle">DevCenterPoint Architectural Delivery Model</title>
+  <desc id="modelDesc">Software Studio to Productized Solutions to Scalable SaaS Products — turning inefficient business processes into resilient software.</desc>
+
+  <defs>
+    <linearGradient id="mBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000A1A" />
+      <stop offset="50%" stop-color="#000F26" />
+      <stop offset="100%" stop-color="#001433" />
+    </linearGradient>
+
+    <linearGradient id="cardG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00163A" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#001026" stop-opacity="0.95" />
+    </linearGradient>
+
+    <pattern id="mGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#24334D" stroke-width="0.6" stroke-opacity="0.3" />
+    </pattern>
+
+    <style>
+      .mono { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" rx="12" fill="url(#mBg)" stroke="#24334D" stroke-width="1.2" />
+  <rect width="1200" height="260" rx="12" fill="url(#mGrid)" />
+
+  <!-- Top Bar -->
+  <g class="mono" font-size="10.5" fill="#71809A" letter-spacing="1.5">
+    <text x="36" y="32">DEVCENTERPOINT // THREE-TIER DELIVERY ARCHITECTURE</text>
+    <text x="1164" y="32" text-anchor="end">VALUE FLYWHEEL</text>
+  </g>
+  <line x1="36" y1="44" x2="1164" y2="44" stroke="#24334D" stroke-width="0.8" />
+
+  <!-- Card 1: Software Studio -->
+  <g transform="translate(36, 62)">
+    <rect width="340" height="168" rx="8" fill="url(#cardG)" stroke="#24334D" stroke-width="1" />
+    <rect x="0" y="0" width="340" height="3" fill="#2E4AF9" opacity="0.6" />
+    
+    <g class="mono" font-size="10" fill="#2E4AF9" letter-spacing="1.5" font-weight="700">
+      <text x="20" y="28">TIER 01 // FOUNDATION</text>
+    </g>
+    <text class="sans" x="20" y="56" font-size="19" font-weight="700" fill="#F5F7FF">
+      Software Studio
+    </text>
+    <text class="sans" x="20" y="82" font-size="12.5" fill="#A8B3C7" font-weight="500">
+      Bespoke Enterprise Engineering
+    </text>
+    <line x1="20" y1="96" x2="320" y2="96" stroke="#24334D" stroke-width="0.8" />
+    
+    <g class="sans" font-size="11.5" fill="#71809A">
+      <text x="20" y="118">• Deep problem discovery &amp; operational audit</text>
+      <text x="20" y="136">• Custom architectures &amp; workflow software</text>
+      <text x="20" y="154">• Zero technical debt, high-assurance code</text>
+    </g>
+  </g>
+
+  <!-- Flow Connector 1 to 2 -->
+  <g transform="translate(388, 140)">
+    <line x1="0" y1="0" x2="32" y2="0" stroke="#2E4AF9" stroke-width="1.6" stroke-dasharray="3 3" />
+    <polygon points="32,0 26,-4 26,4" fill="#2E4AF9" />
+  </g>
+
+  <!-- Card 2: Productized Solutions -->
+  <g transform="translate(430, 62)">
+    <rect width="340" height="168" rx="8" fill="url(#cardG)" stroke="#2E4AF9" stroke-width="1.2" />
+    <rect x="0" y="0" width="340" height="3" fill="#2E4AF9" />
+    
+    <g class="mono" font-size="10" fill="#7B92FF" letter-spacing="1.5" font-weight="700">
+      <text x="20" y="28">TIER 02 // ACCELERATION</text>
+    </g>
+    <text class="sans" x="20" y="56" font-size="19" font-weight="700" fill="#F5F7FF">
+      Productized Solutions
+    </text>
+    <text class="sans" x="20" y="82" font-size="12.5" fill="#DCE6FF" font-weight="500">
+      Modular Core Accelerators
+    </text>
+    <line x1="20" y1="96" x2="320" y2="96" stroke="#24334D" stroke-width="0.8" />
+    
+    <g class="sans" font-size="11.5" fill="#A8B3C7">
+      <text x="20" y="118">• Abstracting recurrent operational patterns</text>
+      <text x="20" y="136">• Rapid turnkey deployment blueprints</text>
+      <text x="20" y="154">• Production-ready CRM, ERP, &amp; queue engines</text>
+    </g>
+  </g>
+
+  <!-- Flow Connector 2 to 3 -->
+  <g transform="translate(782, 140)">
+    <line x1="0" y1="0" x2="32" y2="0" stroke="#2E4AF9" stroke-width="1.6" stroke-dasharray="3 3" />
+    <polygon points="32,0 26,-4 26,4" fill="#2E4AF9" />
+  </g>
+
+  <!-- Card 3: SaaS Platforms -->
+  <g transform="translate(824, 62)">
+    <rect width="340" height="168" rx="8" fill="url(#cardG)" stroke="#24334D" stroke-width="1" />
+    <rect x="0" y="0" width="340" height="3" fill="#2E4AF9" opacity="0.6" />
+    
+    <g class="mono" font-size="10" fill="#2E4AF9" letter-spacing="1.5" font-weight="700">
+      <text x="20" y="28">TIER 03 // MULTIPLIER</text>
+    </g>
+    <text class="sans" x="20" y="56" font-size="19" font-weight="700" fill="#F5F7FF">
+      SaaS Products
+    </text>
+    <text class="sans" x="20" y="82" font-size="12.5" fill="#A8B3C7" font-weight="500">
+      Multi-Tenant Global Platforms
+    </text>
+    <line x1="20" y1="96" x2="320" y2="96" stroke="#24334D" stroke-width="0.8" />
+    
+    <g class="sans" font-size="11.5" fill="#71809A">
+      <text x="20" y="118">• Isolated tenant schemas &amp; BigInt ledgers</text>
+      <text x="20" y="136">• Autonomous AI agents with strict boundaries</text>
+      <text x="20" y="154">• Continuous recurring enterprise value</text>
+    </g>
+  </g>
+</svg>
+
