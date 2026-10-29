@@ -1,10 +1,37 @@
 <!-- ================================================================= -->
-<!-- DIGITAL ENGINEERING ATELIER // MUSHFIQUR RAHMAN                   -->
+<!-- DIGITAL ENGINEERING ATELIER // MUSHFIQUR RAHMAN AAYAN             -->
 <!-- FOUNDER, DEVCENTERPOINT · FULL STACK DEVELOPER · AI BUILDER       -->
 <!-- ================================================================= -->
 
 <div align="center">
-  <img src="assets/hero-atelier.svg" alt="Mushfiqur Rahman — Digital Engineering Atelier | Full Stack Developer &amp; AI Systems Builder" width="100%" />
+  <img src="assets/hero-atelier.svg" alt="Mushfiqur Rahman Aayan — Digital Engineering Atelier | Full Stack Developer &amp; AI Systems Builder" width="100%" />
+</div>
+
+<br />
+
+<!-- ================================================================= -->
+<!-- QUICK TELEMETRY BADGES & JUMP NAVIGATION                          -->
+<!-- ================================================================= -->
+
+<div align="center">
+  <a href="https://github.com/beingmushfiq">
+    <img src="https://komarev.com/ghpvc/?username=beingmushfiq&color=2E4AF9&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views Counter" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%7C%20OPEN%20TO%20COLLABORATION-00163A?style=flat-square&labelColor=000F26&color=2E4AF9" alt="Status: Operational" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TIMEZONE-UTC%2B6%20(DHAKA)-00163A?style=flat-square&labelColor=000F26&color=24334D" alt="Timezone: UTC+6" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="#01--positioning--system-architecture"><code>[ 01 // ARCHITECTURE ]</code></a> &nbsp;
+  <a href="#02--selected-flagship-engineering-systems"><code>[ 02 // FLAGSHIP SYSTEMS ]</code></a> &nbsp;
+  <a href="#03--technical-landscape"><code>[ 03 // TECH STACK ]</code></a> &nbsp;
+  <a href="#04--engineering-philosophy"><code>[ 04 // PHILOSOPHY ]</code></a> &nbsp;
+  <a href="#05--repository-telemetry--dynamic-activity"><code>[ 05 // TELEMETRY ]</code></a> &nbsp;
+  <a href="#06--studio-dispatch--connect"><code>[ 06 // CONNECT ]</code></a>
 </div>
 
 <br />
@@ -28,6 +55,25 @@
     </tr>
   </table>
 </div>
+
+<br />
+
+<!-- OPERATIONAL FOCUS & DISPATCH HUD -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>CURRENT ENGINEERING FOCUS</b></sub><br />
+      🔭 <b>Active Build:</b> Scalable multi-tenant SaaS &amp; production manufacturing ERPs<br />
+      ⚡ <b>Exploring:</b> Real-time WebGL spatial computing &amp; client-side quant modeling<br />
+      📍 <b>Base &amp; Reach:</b> Dhaka, Bangladesh · Collaborating globally across US, EU &amp; APAC
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>TECHNICAL DISCOURSE &amp; CONSULTING</b></sub><br />
+      💬 <b>Ask Me About:</b> High-assurance architectures, double-entry paisa ledgers, React 19 concurrent state, Laravel 12/13 internals, and Bengali NLP transformers<br />
+      🧠 <b>Nuance:</b> Literature background bridging formal logic with human meaning
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -59,10 +105,10 @@ A curated 6-system matrix spanning enterprise operational SaaS, multimodal intel
   </a>
 </div>
 
-* **Domain & Problem:** Industrial production management. Replaces error-prone manual paper logs and fragmented spreadsheets across factory floors with a unified, real-time command center.
-* **Engineering & Architecture:** Engineered with React 19, TypeScript, and a low-latency Progressive Web App (PWA) shell. Unifies live shop-floor production telemetry, multi-warehouse FIFO inventory valuation, shift workforce allocation, automated QC tolerance validation, and an immutable double-entry financial ledger that bridges factory operations with corporate accounting.
+* **Domain &amp; Problem:** Industrial production management. Replaces error-prone manual paper logs and fragmented spreadsheets across factory floors with a unified, real-time command center.
+* **Engineering &amp; Architecture:** Engineered with React 19, TypeScript, and a low-latency Progressive Web App (PWA) shell. Unifies live shop-floor production telemetry, multi-warehouse FIFO inventory valuation, shift workforce allocation, automated QC tolerance validation, and an immutable double-entry financial ledger that bridges factory operations with corporate accounting.
 * **Core Stack:** `React 19` `TypeScript` `Tailwind CSS` `Framer Motion` `REST APIs` `PWA`
-* **Artifacts & Deployment:** [View Repository](https://github.com/beingmushfiq/CenterPoint-ProERP) · [Live Production Command Center](https://demoerp.devcenterpoint.com)
+* **Artifacts &amp; Deployment:** [View Repository](https://github.com/beingmushfiq/CenterPoint-ProERP) · [Live Production Command Center](https://demoerp.devcenterpoint.com)
 
 <br />
 
@@ -74,14 +120,14 @@ A curated 6-system matrix spanning enterprise operational SaaS, multimodal intel
   </a>
 </div>
 
-* **Domain & Problem:** Institutional governance & subscription finance. Solves member record fragmentation, opaque fee collection, and statutory compliance for institutional bodies and civic foundations.
-* **Engineering & Architecture:** Features a 4-layer tenant schema isolation architecture ensuring complete data privacy between syndicates. Includes a high-precision BigInt paisa ledger that natively integrates with domestic payment gateways (bKash, Nagad, EPS) with zero floating-point rounding errors, an interactive 3D WebGL branch galaxy across 64 administrative districts, and statutory Societies Act 1860 reporting automation.
+* **Domain &amp; Problem:** Institutional governance &amp; subscription finance. Solves member record fragmentation, opaque fee collection, and statutory compliance for institutional bodies and civic foundations.
+* **Engineering &amp; Architecture:** Features a 4-layer tenant schema isolation architecture ensuring complete data privacy between syndicates. Includes a high-precision BigInt paisa ledger that natively integrates with domestic payment gateways (bKash, Nagad, EPS) with zero floating-point rounding errors, an interactive 3D WebGL branch galaxy across 64 administrative districts, and statutory Societies Act 1860 reporting automation.
 * **Core Stack:** `TypeScript` `React 19` `Next.js / Node.js` `WebGL 3D` `PostgreSQL`
-* **Artifacts & Deployment:** [View Repository](https://github.com/beingmushfiq/ORG-Management-System) · [Live Web Platform](https://org-management-web.vercel.app)
+* **Artifacts &amp; Deployment:** [View Repository](https://github.com/beingmushfiq/ORG-Management-System) · [Live Web Platform](https://org-management-web.vercel.app)
 
 <br />
 
-#### 03. KothaLipi AI — Multimodal Bengali Linguistics & Acoustic Engine
+#### 03. KothaLipi AI — Multimodal Bengali Linguistics &amp; Acoustic Engine
 
 <div align="center">
   <a href="https://github.com/beingmushfiq/KothaLipi-AI">
@@ -89,10 +135,10 @@ A curated 6-system matrix spanning enterprise operational SaaS, multimodal intel
   </a>
 </div>
 
-* **Domain & Problem:** Computational linguistics & speech recognition. Addresses the critical scarcity of high-accuracy NLP infrastructure, OCR, and dialect-resilient acoustic models for the Bengali language.
-* **Engineering & Architecture:** A multimodal pipeline developed by DevCenterPoint. Integrates a neural document OCR engine trained on complex conjunct characters (যুক্তবর্ণ), an automated Bangla Academy standard syntax and grammar proofreader, a historical Sadhu-to-Cholit (সাধু-চলিত) register converter, and an acoustic speech-to-text pipeline with phonetic regional dialect alignment.
+* **Domain &amp; Problem:** Computational linguistics &amp; speech recognition. Addresses the critical scarcity of high-accuracy NLP infrastructure, OCR, and dialect-resilient acoustic models for the Bengali language.
+* **Engineering &amp; Architecture:** A multimodal pipeline developed by DevCenterPoint. Integrates a neural document OCR engine trained on complex conjunct characters (যুক্তবর্ণ), an automated Bangla Academy standard syntax and grammar proofreader, a historical Sadhu-to-Cholit (সাধু-চলিত) register converter, and an acoustic speech-to-text pipeline with phonetic regional dialect alignment.
 * **Core Stack:** `TypeScript` `Python` `Transformers` `Deep Learning` `Speech-to-Text (ASR)` `OCR`
-* **Artifacts & Deployment:** [View Repository](https://github.com/beingmushfiq/KothaLipi-AI) · [Live Studio Engine](https://kothalipi.ai.studio)
+* **Artifacts &amp; Deployment:** [View Repository](https://github.com/beingmushfiq/KothaLipi-AI) · [Live Studio Engine](https://kothalipi.ai.studio)
 
 <br />
 
@@ -104,14 +150,14 @@ A curated 6-system matrix spanning enterprise operational SaaS, multimodal intel
   </a>
 </div>
 
-* **Domain & Problem:** Autonomous operating system agents. Eliminates repetitive desktop application multitasking by commanding workstation workflows via voice and mobile companion.
-* **Engineering & Architecture:** A voice-first desktop agent built in Python featuring 51 native execution tools spanning system diagnostics, window manipulation, file indexing, and process scripting. Features a 60 FPS hardware-accelerated holographic HUD, acoustic waveform lip-sync synchronization, and a local socket bridge that allows secure command dispatch from an Android device.
+* **Domain &amp; Problem:** Autonomous operating system agents. Eliminates repetitive desktop application multitasking by commanding workstation workflows via voice and mobile companion.
+* **Engineering &amp; Architecture:** A voice-first desktop agent built in Python featuring 51 native execution tools spanning system diagnostics, window manipulation, file indexing, and process scripting. Features a 60 FPS hardware-accelerated holographic HUD, acoustic waveform lip-sync synchronization, and a local socket bridge that allows secure command dispatch from an Android device.
 * **Core Stack:** `Python` `Transformers / NLP` `Computer Vision` `Speech Recognition / TTS` `Socket Protocols`
-* **Artifacts & Deployment:** [View Repository](https://github.com/beingmushfiq/Ultron)
+* **Artifacts &amp; Deployment:** [View Repository](https://github.com/beingmushfiq/Ultron)
 
 <br />
 
-#### 05. XAU/USD Gold SMC Blueprint & Guardian AI Wallet
+#### 05. XAU/USD Gold SMC Blueprint &amp; Guardian AI Wallet
 
 <div align="center">
   <a href="https://github.com/beingmushfiq/XAUUSD-Gold-SMC-Blueprint">
@@ -119,14 +165,14 @@ A curated 6-system matrix spanning enterprise operational SaaS, multimodal intel
   </a>
 </div>
 
-* **Domain & Problem:** Algorithmic financial analysis & autonomous Web3 transactions. Eliminates reliance on proprietary server script engines like TradingView while enforcing unhackable code-level execution boundaries for AI-directed funds.
-* **Engineering & Architecture:** Standalone institutional algorithmic trading dashboard that bypasses PineScript by executing complex Smart Money Concept (SMC) mathematics (Liquidity Sweeps, Order Blocks, Fair Value Gaps) directly in the client browser with zero latency against live institutional feeds. Paired with [Guardian Wallet](https://github.com/beingmushfiq/Guardian-Wallet), a dual-layer autonomous AI wallet whose spending authority is strictly governed by immutable smart contract logic.
+* **Domain &amp; Problem:** Algorithmic financial analysis &amp; autonomous Web3 transactions. Eliminates reliance on proprietary server script engines like TradingView while enforcing unhackable code-level execution boundaries for AI-directed funds.
+* **Engineering &amp; Architecture:** Standalone institutional algorithmic trading dashboard that bypasses PineScript by executing complex Smart Money Concept (SMC) mathematics (Liquidity Sweeps, Order Blocks, Fair Value Gaps) directly in the client browser with zero latency against live institutional feeds. Paired with [Guardian Wallet](https://github.com/beingmushfiq/Guardian-Wallet), a dual-layer autonomous AI wallet whose spending authority is strictly governed by immutable smart contract logic.
 * **Core Stack:** `TypeScript` `Quantitative SMC Math` `Web3 Smart Contracts` `Tailwind CSS` `WebSocket Feeds`
-* **Artifacts & Deployment:** [View SMC Blueprint](https://github.com/beingmushfiq/XAUUSD-Gold-SMC-Blueprint) · [Live SMC Dashboard](https://xauusd-gold-smc-blueprint.vercel.app) · [View Guardian Wallet](https://github.com/beingmushfiq/Guardian-Wallet)
+* **Artifacts &amp; Deployment:** [View SMC Blueprint](https://github.com/beingmushfiq/XAUUSD-Gold-SMC-Blueprint) · [Live SMC Dashboard](https://xauusd-gold-smc-blueprint.vercel.app) · [View Guardian Wallet](https://github.com/beingmushfiq/Guardian-Wallet)
 
 <br />
 
-#### 06. The Frontend Experience Lab & Spatial 3D Engine
+#### 06. The Frontend Experience Lab &amp; Spatial 3D Engine
 
 <div align="center">
   <a href="https://github.com/beingmushfiq/The-Frontend-Experience-Lab">
@@ -134,10 +180,10 @@ A curated 6-system matrix spanning enterprise operational SaaS, multimodal intel
   </a>
 </div>
 
-* **Domain & Problem:** Advanced creative frontend engineering & spatial interface computing. Explores the boundary of desktop-grade web applications through multi-window virtualization, WebGL 3D graphics, and contextual AI assistants.
-* **Engineering & Architecture:** A high-craft laboratory combining a desktop window management system, Web Audio synthesis, interactive 3D WebGL spatial canvas rendering, and server-side Google Gemini AI reasoning with high thinking levels. Designed with strict 60 FPS animation pipelines, real-time diagnostic telemetry, and accessible keyboard-driven navigation (`Ctrl + K`).
+* **Domain &amp; Problem:** Advanced creative frontend engineering &amp; spatial interface computing. Explores the boundary of desktop-grade web applications through multi-window virtualization, WebGL 3D graphics, and contextual AI assistants.
+* **Engineering &amp; Architecture:** A high-craft laboratory combining a desktop window management system, Web Audio synthesis, interactive 3D WebGL spatial canvas rendering, and server-side Google Gemini AI reasoning with high thinking levels. Designed with strict 60 FPS animation pipelines, real-time diagnostic telemetry, and accessible keyboard-driven navigation (`Ctrl + K`).
 * **Core Stack:** `TypeScript` `WebGL / Three.js` `Web Audio API` `Gemini AI` `Tailwind CSS` `Vite`
-* **Artifacts & Deployment:** [View Repository](https://github.com/beingmushfiq/The-Frontend-Experience-Lab) · [Live Experience Lab](https://the-frontend-experience-lab.vercel.app)
+* **Artifacts &amp; Deployment:** [View Repository](https://github.com/beingmushfiq/The-Frontend-Experience-Lab) · [Live Experience Lab](https://the-frontend-experience-lab.vercel.app)
 
 <br />
 
@@ -171,7 +217,7 @@ Curated competencies verified by active production codebases, multi-tenant archi
 </p>
 
 <!-- ================================================================= -->
-<!-- 04 // ENGINEERING PHILOSOPHY                                      -->
+<!-- 04 // ENGINEERING PHILOSOPHY & FOUNDATIONS                        -->
 <!-- ================================================================= -->
 
 ### 04 // ENGINEERING PHILOSOPHY
@@ -199,6 +245,14 @@ Four foundational principles that govern every system designed and built at DevC
 
 > **The Intersection of Logic and Narrative:**  
 > With an academic background in literature paired with full-stack systems engineering, I approach software as both formal logic and structured human narrative. Where conventional development often treats code as isolated syntax, I design software with conceptual clarity, architectural coherence, and deep respect for the human workflows it serves.
+
+<br />
+
+#### Academic Foundation &amp; Verified Certifications
+
+* 🎓 **Honours in English (Ongoing Masters):** Rigorous background in textual hermeneutics, semantic analysis, and structured language systems.
+* 📊 **Google Data Analytics Professional Certification:** Applied statistical analysis, relational data pipelines, and quantitative metrics.
+* 🤖 **IBM Data Science Professional Certification:** Machine learning workflows, predictive modeling, and computational exploratory analysis.
 
 <br />
 
@@ -272,4 +326,6 @@ Available for select enterprise engineering contracts, software architecture con
   <sub>DEVCENTERPOINT · DIGITAL ENGINEERING ATELIER · DHAKA, BANGLADESH · 23.8103° N, 90.4125° E</sub>
   <br />
   <sub><i>“We turn inefficient business processes into software.”</i></sub>
+  <br /><br />
+  <sub>⭐ <i>Found value in these architectural patterns or open-source engines? Repository stars and technical discussions are always appreciated.</i></sub>
 </div>
