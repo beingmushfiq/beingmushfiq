@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="100%" height="auto" role="img" aria-labelledby="snakeTitle snakeDesc">
+  <title id="snakeTitle">Mushfiqur Rahman — Contribution Matrix Snake</title>
+  <desc id="snakeDesc">Autonomous contribution snake traversing engineering activity grid in DevCenterPoint cobalt and deep navy.</desc>
+
+  <defs>
+    <linearGradient id="sBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000A1A" />
+      <stop offset="60%" stop-color="#000F26" />
+      <stop offset="100%" stop-color="#001433" />
+    </linearGradient>
+    <style>
+      .mono { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+      @keyframes crawl {
+        0% { transform: translateX(0); }
+        50% { transform: translateX(20px); }
+        100% { transform: translateX(0); }
+      }
+      .snake-body { animation: crawl 6s ease-in-out infinite; }
+      @media (prefers-reduced-motion: reduce) {
+        .snake-body { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="850" height="170" rx="10" fill="url(#sBg)" stroke="#24334D" stroke-width="1.2" />
+
+  <!-- Technical Header -->
+  <g class="mono" font-size="9.5" fill="#71809A" letter-spacing="1.5">
+    <text x="24" y="26">CONTRIBUTION ACTIVITY // AUTONOMOUS CHRONO MATRIX</text>
+    <text x="826" y="26" text-anchor="end" fill="#2E4AF9">CI/CD AUTONOMOUS DISPATCH</text>
+  </g>
+  <line x1="24" y1="36" x2="826" y2="36" stroke="#24334D" stroke-width="0.8" />
+
+  <!-- Contribution Cell Grid Simulation -->
+  <g transform="translate(24, 52)">
+    <!-- Simulated 52 weeks x 7 days grid with varying brand intensities -->
+    <!-- We generate an aesthetic technical matrix -->
+    <!-- Row 0 to 6 -->
+    <g fill="#00163A" stroke="#24334D" stroke-width="0.5">
+      <!-- Background cells -->
+      <g opacity="0.7">
+        <!-- 52 columns with 15px step -->
+        <!-- Row 0 -->
+        <rect x="0" y="0" width="11" height="11" rx="2" fill="#00122E" />
+        <rect x="15" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="30" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="45" y="0" width="11" height="11" rx="2" fill="#00122E" />
+        <rect x="60" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="75" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="90" y="0" width="11" height="11" rx="2" fill="#00122E" />
+        <rect x="105" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="120" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="135" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="150" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="165" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="180" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="195" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="210" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="225" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="240" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="255" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="270" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="285" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="300" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="315" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="330" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="345" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="360" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="375" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="390" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="405" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="420" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="435" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="450" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="465" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="480" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="495" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="510" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="525" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="540" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="555" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="570" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="585" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="600" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="615" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="630" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="645" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="660" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="675" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="690" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="705" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="720" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="735" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="750" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="765" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="780" y="0" width="11" height="11" rx="2" fill="#DCE6FF" />
+      </g>
+      
+      <!-- Repeated Row 1 to 5 with offset patterns -->
+      <g transform="translate(0, 15)" opacity="0.6">
+        <rect x="0" y="0" width="11" height="11" rx="2" fill="#001844" />
+        <rect x="15" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="30" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="75" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="120" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="180" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="225" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="300" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="360" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="420" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="480" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="540" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="600" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="660" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="720" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="780" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+      </g>
+      <g transform="translate(0, 30)" opacity="0.65">
+        <rect x="15" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="60" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="135" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="195" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="255" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="330" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="390" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="450" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="510" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="570" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="630" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="690" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="750" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+      </g>
+      <g transform="translate(0, 45)" opacity="0.6">
+        <rect x="30" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="90" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="150" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="210" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="285" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="345" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="405" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="480" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="540" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="615" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="675" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="735" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+      </g>
+      <g transform="translate(0, 60)" opacity="0.7">
+        <rect x="45" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="105" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="165" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="240" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="315" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="375" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="435" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="510" y="0" width="11" height="11" rx="2" fill="#143370" />
+        <rect x="585" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="645" y="0" width="11" height="11" rx="2" fill="#7B92FF" />
+        <rect x="720" y="0" width="11" height="11" rx="2" fill="#2E4AF9" />
+        <rect x="780" y="0" width="11" height="11" rx="2" fill="#DCE6FF" />
+      </g>
+    </g>
+
+    <!-- Moving Snake Accent -->
+    <g class="snake-body" transform="translate(560, 45)">
+      <!-- Snake Tail to Head -->
+      <rect x="0" y="0" width="11" height="11" rx="3" fill="#143370" stroke="#24334D" stroke-width="0.8" />
+      <rect x="15" y="0" width="11" height="11" rx="3" fill="#2E4AF9" stroke="#24334D" stroke-width="0.8" />
+      <rect x="30" y="0" width="11" height="11" rx="3" fill="#2E4AF9" stroke="#24334D" stroke-width="0.8" />
+      <rect x="45" y="0" width="11" height="11" rx="3" fill="#7B92FF" stroke="#24334D" stroke-width="0.8" />
+      <!-- Head -->
+      <rect x="60" y="0" width="11" height="11" rx="3" fill="#F5F7FF" stroke="#2E4AF9" stroke-width="1.2" />
+      <!-- Eyes -->
+      <circle cx="68" cy="3" r="1" fill="#000F26" />
+      <circle cx="68" cy="8" r="1" fill="#000F26" />
+    </g>
+  </g>
+
+  <!-- Technical Footer Bar -->
+  <g class="mono" font-size="9" fill="#71809A" letter-spacing="1">
+    <text x="24" y="152">LESS</text>
+    <rect x="55" y="143" width="10" height="10" rx="2" fill="#00122E" stroke="#24334D" stroke-width="0.5" />
+    <rect x="70" y="143" width="10" height="10" rx="2" fill="#001844" stroke="#24334D" stroke-width="0.5" />
+    <rect x="85" y="143" width="10" height="10" rx="2" fill="#143370" stroke="#24334D" stroke-width="0.5" />
+    <rect x="100" y="143" width="10" height="10" rx="2" fill="#2E4AF9" stroke="#24334D" stroke-width="0.5" />
+    <rect x="115" y="143" width="10" height="10" rx="2" fill="#7B92FF" stroke="#24334D" stroke-width="0.5" />
+    <text x="135" y="152">MORE</text>
+    
+    <text x="826" y="152" text-anchor="end">SYNCHRONIZED WITH GITHUB ACTIONS</text>
+  </g>
+</svg>
