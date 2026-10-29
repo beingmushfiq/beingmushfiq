@@ -30,7 +30,9 @@
   <!-- Top Bar -->
   <g class="mono" font-size="10.5" fill="#71809A" letter-spacing="1.5">
     <text x="36" y="32">DEVCENTERPOINT // THREE-TIER DELIVERY ARCHITECTURE</text>
-    <text x="1164" y="32" text-anchor="end">VALUE FLYWHEEL</text>
+    <a href="https://buildwithmushfiq.vercel.app" target="_blank">
+      <text x="1164" y="32" text-anchor="end" fill="#2E4AF9" font-weight="700">EXPLORE SYSTEMS PORTFOLIO ↗</text>
+    </a>
   </g>
   <line x1="36" y1="44" x2="1164" y2="44" stroke="#24334D" stroke-width="0.8" />
 

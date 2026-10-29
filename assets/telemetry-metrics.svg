@@ -30,7 +30,9 @@
   <!-- Top Metadata Bar -->
   <g class="mono" font-size="10" fill="#71809A" letter-spacing="1.5">
     <text x="36" y="28">ATELIER TELEMETRY // VERIFIED SYSTEM BENCHMARKS</text>
-    <text x="1164" y="28" text-anchor="end">AUDITED OCT 2026</text>
+    <a href="https://github.com/beingmushfiq?tab=repositories" target="_blank">
+      <text x="1164" y="28" text-anchor="end" fill="#2E4AF9" font-weight="700">EXPLORE 63+ REPOSITORIES ↗</text>
+    </a>
   </g>
   <line x1="36" y1="38" x2="1164" y2="38" stroke="#24334D" stroke-width="0.8" />
 

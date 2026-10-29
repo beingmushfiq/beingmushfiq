@@ -260,6 +260,8 @@
   <line x1="56" y1="394" x2="1144" y2="394" stroke="#24334D" stroke-width="1" stroke-opacity="0.8" />
   <g class="mono" font-size="9" fill="#71809A" letter-spacing="1.2">
     <text x="56" y="408">TECH ENGINE: REACT 19 · TYPESCRIPT · LARAVEL · NODE · PYTHON ML · THREE.JS</text>
-    <text x="1144" y="408" text-anchor="end">DIGITAL ATELIER // 2026</text>
+    <a href="https://devcenterpoint.com" target="_blank">
+      <text x="1144" y="408" text-anchor="end" fill="#2E4AF9" font-weight="700">EXPLORE STUDIO: DEVCENTERPOINT.COM ↗</text>
+    </a>
   </g>
 </svg>
