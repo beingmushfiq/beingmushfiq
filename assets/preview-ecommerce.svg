@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 140" width="100%" height="auto" role="img" aria-label="E-commerce PointOne — Multi-Tenant SaaS Commerce Platform">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#001030"/>
+      <stop offset="100%" stop-color="#000a1a"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'SF Mono', 'Fira Code', Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    </style>
+  </defs>
+  <rect width="580" height="140" rx="8" fill="url(#bg4)" stroke="#1e2d45" stroke-width="1"/>
+  <rect x="0" y="0" width="580" height="2.5" rx="8" fill="#2E4AF9" opacity="0.5"/>
+  <g class="mono" font-size="9" fill="#5a6b82" letter-spacing="1">
+    <text x="18" y="22">04 · MODULAR COMMERCE PLATFORM</text>
+    <circle cx="560" cy="18" r="2.5" fill="#2E4AF9"/>
+  </g>
+  <line x1="18" y1="30" x2="562" y2="30" stroke="#1e2d45" stroke-width="0.6"/>
+  
+  <g transform="translate(18, 42)">
+    <rect width="160" height="56" rx="4" fill="#001129" stroke="#1e2d45" stroke-width="0.8"/>
+    <text class="mono" x="10" y="18" font-size="8" fill="#2E4AF9" font-weight="600">STOREFRONT</text>
+    <text class="sans" x="10" y="36" font-size="11.5" font-weight="700" fill="#f0f4ff">CMS + Catalog</text>
+    <text class="sans" x="10" y="50" font-size="9" fill="#8391A8">AI Product Assistants</text>
+  </g>
+  <g transform="translate(182, 70)"><line x1="0" y1="0" x2="20" y2="0" stroke="#2E4AF9" stroke-width="1" stroke-dasharray="3 2"/><polygon points="20,0 15,-3 15,3" fill="#2E4AF9"/></g>
+  <g transform="translate(206, 42)">
+    <rect width="172" height="56" rx="4" fill="#001333" stroke="#2E4AF9" stroke-width="0.8"/>
+    <text class="mono" x="10" y="18" font-size="8" fill="#5277FF" font-weight="600">OPERATIONS</text>
+    <text class="sans" x="10" y="36" font-size="11.5" font-weight="700" fill="#f0f4ff">Inventory + Orders</text>
+    <text class="sans" x="10" y="50" font-size="9" fill="#c4d0e2">Multi-Tenant Accounting</text>
+  </g>
+  <g transform="translate(382, 70)"><line x1="0" y1="0" x2="20" y2="0" stroke="#2E4AF9" stroke-width="1" stroke-dasharray="3 2"/><polygon points="20,0 15,-3 15,3" fill="#2E4AF9"/></g>
+  <g transform="translate(406, 42)">
+    <rect width="156" height="56" rx="4" fill="#001129" stroke="#1e2d45" stroke-width="0.8"/>
+    <text class="mono" x="10" y="18" font-size="8" fill="#2E4AF9" font-weight="600">MARKETING</text>
+    <text class="sans" x="10" y="36" font-size="11.5" font-weight="700" fill="#f0f4ff">Automation</text>
+    <text class="sans" x="10" y="50" font-size="9" fill="#8391A8">Analytics · Omnichannel</text>
+  </g>
+  
+  <g class="mono" font-size="8" fill="#4a5568" letter-spacing="1">
+    <text x="18" y="124">PHP · LARAVEL · REACT · MYSQL · REDIS</text>
+    <text x="562" y="124" text-anchor="end" fill="#2E4AF9" font-weight="600">LIVE ↗</text>
+  </g>
+</svg>
+

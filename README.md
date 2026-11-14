@@ -1,300 +1,277 @@
-<!-- ================================================================= -->
-<!-- DIGITAL ENGINEERING ATELIER // MUSHFIQUR RAHMAN AAYAN             -->
-<!-- FOUNDER, DEVCENTERPOINT · FULL STACK DEVELOPER · AI BUILDER       -->
-<!-- ================================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- MUSHFIQUR RAHMAN · FULL STACK DEVELOPER · AI BUILDER          -->
+<!-- GITHUB PROFILE README                                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://devcenterpoint.com" title="Launch DevCenterPoint Studio — Custom Software &amp; Enterprise Systems">
-    <img src="assets/hero-atelier.svg" alt="Mushfiqur Rahman Aayan — Digital Engineering Atelier | Full Stack Developer &amp; AI Systems Builder" width="100%" />
+  <a href="https://devcenterpoint.com" title="DevCenterPoint — Custom Software & Digital Solutions">
+    <img src="assets/hero.svg" alt="Mushfiqur Rahman — Full Stack Developer & AI Builder. Building software that turns complex ideas into practical digital solutions." width="100%" />
   </a>
 </div>
 
 <br />
 
-<!-- ================================================================= -->
-<!-- QUICK TELEMETRY BADGES & JUMP NAVIGATION                          -->
-<!-- ================================================================= -->
-
 <div align="center">
-  <a href="https://github.com/beingmushfiq" title="Live Profile Views Counter">
-    <img src="https://komarev.com/ghpvc/?username=beingmushfiq&color=2E4AF9&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views Counter" />
+  <a href="https://github.com/beingmushfiq">
+    <img src="https://komarev.com/ghpvc/?username=beingmushfiq&color=2E4AF9&style=flat-square&label=VIEWS" alt="Profile Views" />
   </a>
   &nbsp;
-  <a href="https://devcenterpoint.com" title="Engineering Studio Status">
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%7C%20OPEN%20TO%20COLLABORATION-00163A?style=flat-square&labelColor=000F26&color=2E4AF9" alt="Status: Operational" />
-  </a>
-  &nbsp;
-  <a href="https://time.is/Dhaka" title="Current Timezone">
-    <img src="https://img.shields.io/badge/TIMEZONE-UTC%2B6%20(DHAKA)-00163A?style=flat-square&labelColor=000F26&color=24334D" alt="Timezone: UTC+6" />
+  <a href="https://devcenterpoint.com">
+    <img src="https://img.shields.io/badge/OPEN%20TO%20COLLABORATION-2E4AF9?style=flat-square&labelColor=000F26" alt="Open to Collaboration" />
   </a>
 </div>
 
 <br />
 
-<div align="center">
-  <a href="#01--positioning--system-architecture"><code>[ 01 // ARCHITECTURE ]</code></a> &nbsp;
-  <a href="#02--selected-flagship-engineering-systems"><code>[ 02 // FLAGSHIP SYSTEMS ]</code></a> &nbsp;
-  <a href="#03--technical-landscape"><code>[ 03 // TECH STACK ]</code></a> &nbsp;
-  <a href="#04--engineering-philosophy"><code>[ 04 // PHILOSOPHY ]</code></a> &nbsp;
-  <a href="#05--repository-telemetry--dynamic-activity"><code>[ 05 // TELEMETRY ]</code></a> &nbsp;
-  <a href="#06--studio-dispatch--connect"><code>[ 06 // CONNECT ]</code></a>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### About
+
+I'm a full-stack developer based in Dhaka, Bangladesh. I build web applications, SaaS platforms, and business tools — primarily with **React**, **TypeScript**, **Laravel**, and **Node.js**. I also work with **Python** for AI-assisted features and data-driven applications.
+
+Most of what I build solves operational problems: manufacturing ERPs, microfinance platforms, multi-tenant governance systems, e-commerce engines. I care about getting the architecture right, making sure the numbers add up, and shipping software that actually works in production.
+
+I run **[DevCenterPoint](https://devcenterpoint.com)**, a small software studio focused on turning business problems into reliable digital systems.
 
 <br />
 
-<!-- ================================================================= -->
-<!-- 01 // EDITORIAL POSITIONING & ARCHITECTURAL FLYWHEEL              -->
-<!-- ================================================================= -->
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
 
-### 01 // POSITIONING & SYSTEM ARCHITECTURE
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WHAT I BUILD                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <table width="100%" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="left">
-        <sub><b>CORE THESIS // ARCHITECTURAL INTENT</b></sub>
-        <h3>Architecting software that turns complex operational friction into resilient digital systems.</h3>
-        <p>
-          I work at the convergence of full-stack software engineering, applied artificial intelligence, and systems architecture. As the founder of <b>DevCenterPoint</b>, my mission is straightforward: <i>we turn inefficient business processes into software</i>. Rather than assembling disposable prototypes or chasing framework trends, I design and deliver high-assurance platforms—from manufacturing command centers with double-entry ledgers to multimodal computational linguistics and autonomous workstation agents.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+### What I Build
 
-<br />
-
-<!-- OPERATIONAL FOCUS & DISPATCH HUD -->
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <sub><b>CURRENT ENGINEERING FOCUS</b></sub><br />
-      🔭 <b>Active Build:</b> Scalable multi-tenant SaaS &amp; production manufacturing ERPs<br />
-      ⚡ <b>Exploring:</b> Real-time WebGL spatial computing &amp; client-side quant modeling<br />
-      📍 <b>Base &amp; Reach:</b> Dhaka, Bangladesh · Collaborating globally across US, EU &amp; APAC
+    <td width="33%" valign="top">
+      <sub><b>FULL-STACK WEB APPS</b></sub><br />
+      Production web applications with modern frontend frameworks and server-side backends. Multi-page dashboards, real-time interfaces, PWAs.
     </td>
-    <td width="50%" valign="top">
-      <sub><b>TECHNICAL DISCOURSE &amp; CONSULTING</b></sub><br />
-      💬 <b>Ask Me About:</b> High-assurance architectures, double-entry paisa ledgers, React 19 concurrent state, Laravel 12/13 internals, and Bengali NLP transformers<br />
-      🧠 <b>Nuance:</b> Literature background bridging formal logic with human meaning
+    <td width="33%" valign="top">
+      <sub><b>SAAS & MULTI-TENANT SYSTEMS</b></sub><br />
+      Subscription platforms with tenant isolation, role-based access, payment integrations, and domain-specific business logic.
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>BUSINESS & OPERATIONS SOFTWARE</b></sub><br />
+      ERPs, CRMs, inventory systems, financial ledgers, order management, and process automation for real business workflows.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <sub><b>E-COMMERCE PLATFORMS</b></sub><br />
+      Complete commerce engines with dynamic storefronts, catalog management, checkout flows, and integrated accounting.
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>AI-ASSISTED APPLICATIONS</b></sub><br />
+      Applications integrating LLM reasoning, NLP pipelines, voice interfaces, and explainable ML for practical use cases.
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>APIS & BACKEND SYSTEMS</b></sub><br />
+      RESTful architectures, real-time WebSocket services, background job processing, and database-driven backends.
     </td>
   </tr>
 </table>
 
 <br />
 
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS                                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### Featured Projects
+
+A selection of systems that represent the range and depth of what I build. Each addresses a real operational problem.
+
+<br />
+
+#### CenterPoint ProERP
+
 <div align="center">
-  <a href="https://buildwithmushfiq.vercel.app" title="Explore Systems Portfolio &amp; Productized Solutions">
-    <img src="assets/architecture-model.svg" alt="DevCenterPoint Value Flywheel: Software Studio to Productized Solutions to Scalable SaaS" width="100%" />
+  <a href="https://demoerp.devcenterpoint.com" title="Launch CenterPoint ProERP">
+    <img src="assets/preview-proerp.svg" alt="CenterPoint ProERP — Enterprise Manufacturing Command Center" width="100%" />
   </a>
 </div>
+
+Enterprise manufacturing command center. Replaces paper logs and fragmented spreadsheets across factory floors with unified production management — real-time line telemetry, multi-warehouse FIFO inventory, shift workforce allocation, QC validation, and an immutable double-entry financial ledger.
+
+**Stack:** `React 19` `TypeScript` `Tailwind CSS` `Framer Motion` `REST APIs` `PWA`
+<br />
+[Live Demo](https://demoerp.devcenterpoint.com) · [Repository](https://github.com/beingmushfiq/CenterPoint-ProERP)
+
+<br />
+
+#### ORG Management System
+
+<div align="center">
+  <a href="https://org-management-web.vercel.app" title="Launch ORG Management System">
+    <img src="assets/preview-org.svg" alt="ORG Management System — Multi-Tenant Governance SaaS" width="100%" />
+  </a>
+</div>
+
+Multi-tenant SaaS for institutional governance — syndicates, civic foundations, and professional bodies in Bangladesh. Features 4-layer tenant schema isolation, a BigInt paisa ledger with domestic payment gateway integration (bKash, Nagad), a 3D WebGL branch visualization across 64 districts, and statutory Societies Act 1860 reporting.
+
+**Stack:** `TypeScript` `React 19` `Next.js` `Node.js` `PostgreSQL` `WebGL`
+<br />
+[Live Platform](https://org-management-web.vercel.app) · [Repository](https://github.com/beingmushfiq/ORG-Management-System)
+
+<br />
+
+#### NGO Management System
+
+<div align="center">
+  <a href="https://ngodemo-dcp.vercel.app" title="Launch NGO Management System">
+    <img src="assets/preview-ngo.svg" alt="NGO Management System — Microfinance Platform" width="100%" />
+  </a>
+</div>
+
+Core microfinance and savings management platform for NGOs and MFIs. Dual-entry ledger accounting, weekly loan installment tracking, savings vaults, custom RBAC, offline resilience, and bilingual support (English/বাংলা). Built for organizations managing member finances at scale.
+
+**Stack:** `TypeScript` `React` `Laravel 13` `PostgreSQL`
+<br />
+[Live Demo](https://ngodemo-dcp.vercel.app) · [Repository](https://github.com/beingmushfiq/NGO-Management-System)
+
+<br />
+
+#### E-commerce PointOne
+
+<div align="center">
+  <a href="https://ecommerce.devcenterpoint.com" title="Launch E-commerce PointOne">
+    <img src="assets/preview-ecommerce.svg" alt="E-commerce PointOne — Multi-Tenant Commerce Platform" width="100%" />
+  </a>
+</div>
+
+Modular, multi-tenant SaaS e-commerce platform. Full commerce engine with advanced inventory management, integrated accounting, AI product assistants, storefront CMS, marketing automation, analytics, and omnichannel integrations. Designed for operators managing multiple storefronts from a single backend.
+
+**Stack:** `PHP` `Laravel` `React` `MySQL` `Redis`
+<br />
+[Live Platform](https://ecommerce.devcenterpoint.com) · [Repository](https://github.com/beingmushfiq/E-commerce-PointOne)
+
+<br />
+
+#### Ultron AI
+
+<div align="center">
+  <a href="https://github.com/beingmushfiq/Ultron" title="Explore Ultron AI Repository">
+    <img src="assets/preview-ultron.svg" alt="Ultron AI — Voice-First Desktop Intelligence" width="100%" />
+  </a>
+</div>
+
+Voice-first autonomous desktop agent built in Python. 51 native execution tools spanning system diagnostics, window manipulation, file indexing, and process scripting. Features a hardware-accelerated holographic HUD, acoustic waveform lip-sync, and a local socket bridge for secure command dispatch from an Android companion app.
+
+**Stack:** `Python` `Transformers` `Computer Vision` `Speech Recognition` `Socket Protocols`
+<br />
+[Repository](https://github.com/beingmushfiq/Ultron)
+
+<br />
+
+<details>
+<summary><b>More Projects</b></summary>
+
+<br />
+
+| Project | What It Does | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **CQMP** | Real-time clinic queue management — connects receptionists, doctors, and patients through a live-updating dashboard | `TypeScript` `React` | [Live](https://cqmp.vercel.app) · [Repo](https://github.com/beingmushfiq/CQMP) |
+| **AutoCanvas** | AI-powered social media management SaaS — plan, create, schedule, and publish across platforms | `TypeScript` | [Live](https://autocanvas.devcenterpoint.com) · [Repo](https://github.com/beingmushfiq/AutoCanvas) |
+| **KothaLipi AI** | Bengali multimodal AI — document OCR, grammar proofreading, Sadhu-Cholit conversion, dialect-resilient speech-to-text | `TypeScript` `Python` `Transformers` | [Repo](https://github.com/beingmushfiq/KothaLipi-AI) |
+| **CodeCrafts Invoice** | Invoice and proposal generator for agencies and freelancers — quotations, payment schedules, PDF export | `JavaScript` | [Live](https://code-crafts-invoice-creator.vercel.app) · [Repo](https://github.com/beingmushfiq/CodeCrafts-Invoice-Creator) |
+| **Baki Bondhu** | Voice-first business management — operators manage their business by speaking in their native language | `Kotlin` | [Repo](https://github.com/beingmushfiq/Baki-Bondhu) |
+| **Guardian Wallet** | Autonomous AI wallet with dual-layer code-enforced spending authority — even a compromised LLM cannot move funds outside limits | `HTML` `Smart Contracts` | [Live](https://guardianwallet.devcenterpoint.com) · [Repo](https://github.com/beingmushfiq/Guardian-Wallet) |
+| **SHAP Career Predictor** | Explainable career prediction using dual-model XGBoost + Random Forest with SHAP interpretability | `Python` `XGBoost` `SHAP` | [Repo](https://github.com/beingmushfiq/SHAP-Driven-Career-Predictor) |
+| **Frontend Experience Lab** | Advanced frontend engineering showcase — desktop window management, WebGL 3D canvas, Web Audio, Gemini AI integration | `TypeScript` `WebGL` `Three.js` | [Live](https://the-frontend-experience-lab.vercel.app) · [Repo](https://github.com/beingmushfiq/The-Frontend-Experience-Lab) |
+
+</details>
 
 <br />
 
 <p align="center">
-  <img src="assets/divider-technical.svg" alt="" width="100%" />
+  <img src="assets/divider.svg" alt="" width="100%" />
 </p>
 
-<!-- ================================================================= -->
-<!-- 02 // SELECTED FLAGSHIP ENGINEERING SYSTEMS                       -->
-<!-- ================================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECHNOLOGY STACK                                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 02 // SELECTED FLAGSHIP SYSTEMS
+### Technology Stack
 
-A curated 6-system matrix spanning enterprise operational SaaS, multimodal intelligence, browser-based quantitative mathematics, and spatial WebGL computing. *Click any banner to launch its live system or source repository.*
-
-<br />
-
-#### 01. CenterPoint ProERP — Enterprise Manufacturing Command Center
-
-<div align="center">
-  <a href="https://demoerp.devcenterpoint.com" title="Launch CenterPoint ProERP — Live Production Command Center">
-    <img src="assets/project-proerp.svg" alt="CenterPoint ProERP System Architecture" width="100%" />
-  </a>
-</div>
-
-* **Domain &amp; Problem:** Industrial production management. Replaces error-prone manual paper logs and fragmented spreadsheets across factory floors with a unified, real-time command center.
-* **Engineering &amp; Architecture:** Engineered with React 19, TypeScript, and a low-latency Progressive Web App (PWA) shell. Unifies live shop-floor production telemetry, multi-warehouse FIFO inventory valuation, shift workforce allocation, automated QC tolerance validation, and an immutable double-entry financial ledger that bridges factory operations with corporate accounting.
-* **Core Stack:** `React 19` `TypeScript` `Tailwind CSS` `Framer Motion` `REST APIs` `PWA`
-* **Artifacts &amp; Deployment:** [Launch Live Command Center](https://demoerp.devcenterpoint.com) · [View Repository](https://github.com/beingmushfiq/CenterPoint-ProERP)
+Technologies verified through active repositories and production codebases.
 
 <br />
 
-#### 02. ORG Management System — Multi-Tenant Syndicate Governance SaaS
-
-<div align="center">
-  <a href="https://org-management-web.vercel.app" title="Launch ORG Management System — Live Multi-Tenant SaaS Platform">
-    <img src="assets/project-org.svg" alt="ORG Management System Architecture" width="100%" />
-  </a>
-</div>
-
-* **Domain &amp; Problem:** Institutional governance &amp; subscription finance. Solves member record fragmentation, opaque fee collection, and statutory compliance for institutional bodies and civic foundations.
-* **Engineering &amp; Architecture:** Features a 4-layer tenant schema isolation architecture ensuring complete data privacy between syndicates. Includes a high-precision BigInt paisa ledger that natively integrates with domestic payment gateways (bKash, Nagad, EPS) with zero floating-point rounding errors, an interactive 3D WebGL branch galaxy across 64 administrative districts, and statutory Societies Act 1860 reporting automation.
-* **Core Stack:** `TypeScript` `React 19` `Next.js / Node.js` `WebGL 3D` `PostgreSQL`
-* **Artifacts &amp; Deployment:** [Launch Live SaaS Platform](https://org-management-web.vercel.app) · [View Repository](https://github.com/beingmushfiq/ORG-Management-System)
-
-<br />
-
-#### 03. KothaLipi AI — Multimodal Bengali Linguistics &amp; Acoustic Engine
-
-<div align="center">
-  <a href="https://kothalipi.ai.studio" title="Launch KothaLipi AI — Multimodal Bengali Linguistics &amp; Speech Studio">
-    <img src="assets/project-kothalipi.svg" alt="KothaLipi AI Multimodal Bengali Engine" width="100%" />
-  </a>
-</div>
-
-* **Domain &amp; Problem:** Computational linguistics &amp; speech recognition. Addresses the critical scarcity of high-accuracy NLP infrastructure, OCR, and dialect-resilient acoustic models for the Bengali language.
-* **Engineering &amp; Architecture:** A multimodal pipeline developed by DevCenterPoint. Integrates a neural document OCR engine trained on complex conjunct characters (যুক্তবর্ণ), an automated Bangla Academy standard syntax and grammar proofreader, a historical Sadhu-to-Cholit (সাধু-চলিত) register converter, and an acoustic speech-to-text pipeline with phonetic regional dialect alignment.
-* **Core Stack:** `TypeScript` `Python` `Transformers` `Deep Learning` `Speech-to-Text (ASR)` `OCR`
-* **Artifacts &amp; Deployment:** [Launch Live AI Studio](https://kothalipi.ai.studio) · [View Repository](https://github.com/beingmushfiq/KothaLipi-AI)
-
-<br />
-
-#### 04. Ultron AI — Voice-First Autonomous Workstation Intelligence
-
-<div align="center">
-  <a href="https://github.com/beingmushfiq/Ultron" title="Explore Ultron AI — Autonomous Workstation Intelligence Repository">
-    <img src="assets/project-ultron.svg" alt="Ultron AI Desktop Intelligence Architecture" width="100%" />
-  </a>
-</div>
-
-* **Domain &amp; Problem:** Autonomous operating system agents. Eliminates repetitive desktop application multitasking by commanding workstation workflows via voice and mobile companion.
-* **Engineering &amp; Architecture:** A voice-first desktop agent built in Python featuring 51 native execution tools spanning system diagnostics, window manipulation, file indexing, and process scripting. Features a 60 FPS hardware-accelerated holographic HUD, acoustic waveform lip-sync synchronization, and a local socket bridge that allows secure command dispatch from an Android device.
-* **Core Stack:** `Python` `Transformers / NLP` `Computer Vision` `Speech Recognition / TTS` `Socket Protocols`
-* **Artifacts &amp; Deployment:** [Explore Repository &amp; Native Tools](https://github.com/beingmushfiq/Ultron)
-
-<br />
-
-#### 05. XAU/USD Gold SMC Blueprint &amp; Guardian AI Wallet
-
-<div align="center">
-  <a href="https://xauusd-gold-smc-blueprint.vercel.app" title="Launch XAU/USD Gold SMC Algorithmic Trading Dashboard">
-    <img src="assets/project-fintech.svg" alt="Quantitative Fintech and Autonomous Wallet Architecture" width="100%" />
-  </a>
-</div>
-
-* **Domain &amp; Problem:** Algorithmic financial analysis &amp; autonomous Web3 transactions. Eliminates reliance on proprietary server script engines like TradingView while enforcing unhackable code-level execution boundaries for AI-directed funds.
-* **Engineering &amp; Architecture:** Standalone institutional algorithmic trading dashboard that bypasses PineScript by executing complex Smart Money Concept (SMC) mathematics (Liquidity Sweeps, Order Blocks, Fair Value Gaps) directly in the client browser with zero latency against live institutional feeds. Paired with [Guardian Wallet](https://github.com/beingmushfiq/Guardian-Wallet), a dual-layer autonomous AI wallet whose spending authority is strictly governed by immutable smart contract logic.
-* **Core Stack:** `TypeScript` `Quantitative SMC Math` `Web3 Smart Contracts` `Tailwind CSS` `WebSocket Feeds`
-* **Artifacts &amp; Deployment:** [Launch SMC Live Dashboard](https://xauusd-gold-smc-blueprint.vercel.app) · [View SMC Blueprint](https://github.com/beingmushfiq/XAUUSD-Gold-SMC-Blueprint) · [View Guardian Wallet](https://github.com/beingmushfiq/Guardian-Wallet)
-
-<br />
-
-#### 06. The Frontend Experience Lab &amp; Spatial 3D Engine
-
-<div align="center">
-  <a href="https://the-frontend-experience-lab.vercel.app" title="Launch The Frontend Experience Lab — Interactive 3D Spatial Canvas">
-    <img src="assets/project-frontendlab.svg" alt="The Frontend Experience Lab and Spatial Engine" width="100%" />
-  </a>
-</div>
-
-* **Domain &amp; Problem:** Advanced creative frontend engineering &amp; spatial interface computing. Explores the boundary of desktop-grade web applications through multi-window virtualization, WebGL 3D graphics, and contextual AI assistants.
-* **Engineering &amp; Architecture:** A high-craft laboratory combining a desktop window management system, Web Audio synthesis, interactive 3D WebGL spatial canvas rendering, and server-side Google Gemini AI reasoning with high thinking levels. Designed with strict 60 FPS animation pipelines, real-time diagnostic telemetry, and accessible keyboard-driven navigation (`Ctrl + K`).
-* **Core Stack:** `TypeScript` `WebGL / Three.js` `Web Audio API` `Gemini AI` `Tailwind CSS` `Vite`
-* **Artifacts &amp; Deployment:** [Launch Live Experience Lab](https://the-frontend-experience-lab.vercel.app) · [View Repository](https://github.com/beingmushfiq/The-Frontend-Experience-Lab)
-
-<br />
-
-<p align="center">
-  <img src="assets/divider-technical.svg" alt="" width="100%" />
-</p>
-
-<!-- ================================================================= -->
-<!-- 03 // TECHNOLOGY LANDSCAPE & SYSTEM CORE                          -->
-<!-- ================================================================= -->
-
-### 03 // TECHNICAL LANDSCAPE
-
-Curated competencies verified by active production codebases, multi-tenant architectures, and public repositories.
-
-<br />
-
-| Domain | Core Technologies &amp; Implementation Depth |
+| | Technologies |
 | :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript (ESNext)` `Python` `PHP (8.x)` `SQL` |
-| **Frontend &amp; Spatial** | `React (18 / 19)` `Next.js` `Vite` `Tailwind CSS (v3 / v4)` `Framer Motion` `WebGL / Three.js` |
-| **Backend &amp; Distributed Systems** | `Laravel (PHP)` `Node.js` `Express` `RESTful API Architecture` `WebSocket Event Streams` |
-| **Databases &amp; State** | `PostgreSQL` `MySQL` `MongoDB` `Redis (Caching &amp; Queues)` `SQLite` |
-| **AI, NLP &amp; Intelligence** | `Transformers` `Google Gemini API` `OpenAI API` `LangChain` `SHAP (Explainable ML)` `OCR &amp; ASR Pipelines` |
-| **DevOps &amp; Infrastructure** | `Git &amp; GitHub Actions CI/CD` `Linux / Shell Scripting` `Docker` `Postman (API Validation)` `Vercel Platform` |
+| **Languages** | `TypeScript` `JavaScript` `Python` `PHP` `SQL` `Kotlin` |
+| **Frontend** | `React 18/19` `Next.js` `Vite` `Tailwind CSS` `Framer Motion` `WebGL / Three.js` |
+| **Backend** | `Laravel` `Node.js` `Express` `REST APIs` `WebSocket` |
+| **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite` |
+| **AI & ML** | `Transformers` `Google Gemini API` `OpenAI API` `SHAP` `OCR` `Speech Recognition` |
+| **DevOps** | `Git` `GitHub Actions` `Docker` `Linux` `Vercel` |
 
 <br />
 
 <p align="center">
-  <img src="assets/divider-technical.svg" alt="" width="100%" />
+  <img src="assets/divider.svg" alt="" width="100%" />
 </p>
 
-<!-- ================================================================= -->
-<!-- 04 // ENGINEERING PHILOSOPHY & FOUNDATIONS                        -->
-<!-- ================================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CURRENT FOCUS                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 04 // ENGINEERING PHILOSOPHY
+### Current Focus
 
-Four foundational principles that govern every system designed and built at DevCenterPoint.
-
-```
-┌───────────────────────────────────────┐   ┌───────────────────────────────────────┐
-│  01 // UNDERSTAND THE PROBLEM FIRST   │   │  02 // BUILD WITH PURPOSE & RESTRAINT │
-│  Software begins with deep operational│   │  Complexity is a liability. We choose │
-│  reality—not technology hype. We map  │   │  high-assurance modular architecture, │
-│  workflows, isolate bottlenecks, and  │   │  clean domain boundaries, and zero    │
-│  write code where it creates leverage.│   │  speculative dependency bloat.        │
-└───────────────────────────────────────┘   └───────────────────────────────────────┘
-                    │                                           │
-                    ▼                                           ▼
-┌───────────────────────────────────────┐   ┌───────────────────────────────────────┐
-│  03 // USE AI AS AN ACCELERATOR       │   │  04 // DELIVER WORKING SOFTWARE       │
-│  We leverage neural models and LLMs   │   │  The real benchmark is production. We │
-│  for reasoning, parsing, and velocity,│   │  value ledger auditability, data      │
-│  anchored by deterministic code-level │   │  integrity, and resilient workflows   │
-│  guardrails and human verification.   │   │  over superficial demonstration apps. │
-└───────────────────────────────────────┘   └───────────────────────────────────────┘
-```
-
-> **The Intersection of Logic and Narrative:**  
-> With an academic background in literature paired with full-stack systems engineering, I approach software as both formal logic and structured human narrative. Where conventional development often treats code as isolated syntax, I design software with conceptual clarity, architectural coherence, and deep respect for the human workflows it serves.
-
-<br />
-
-#### Academic Foundation &amp; Verified Certifications
-
-* 🎓 **Honours in English (Ongoing Masters):** Rigorous background in textual hermeneutics, semantic analysis, and structured language systems.
-* 📊 **Google Data Analytics Professional Certification:** Applied statistical analysis, relational data pipelines, and quantitative metrics.
-* 🤖 **IBM Data Science Professional Certification:** Machine learning workflows, predictive modeling, and computational exploratory analysis.
+Right now I'm primarily working on multi-tenant SaaS architecture and production business systems through DevCenterPoint — ERPs, e-commerce engines, and microfinance platforms for the Bangladeshi market. I'm also spending time on AI-assisted development workflows — finding practical ways to integrate LLM reasoning into real applications rather than building wrappers around chat APIs. Beyond that, I'm exploring better patterns for full-stack application architecture, specifically around tenant isolation, financial ledger integrity, and offline-capable frontends.
 
 <br />
 
 <p align="center">
-  <img src="assets/divider-technical.svg" alt="" width="100%" />
+  <img src="assets/divider.svg" alt="" width="100%" />
 </p>
 
-<!-- ================================================================= -->
-<!-- 05 // VERIFIED REPOSITORY TELEMETRY & ACTIVITY                    -->
-<!-- ================================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB ACTIVITY                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 05 // REPOSITORY TELEMETRY & DYNAMIC ACTIVITY
-
-Transparent activity metrics and autonomous contribution tracking synchronized via GitHub Actions.
+### GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/beingmushfiq?tab=repositories" title="Inspect All 63+ Verified Public Repositories &amp; Source Code">
-    <img src="assets/telemetry-metrics.svg" alt="Verified Engineering Telemetry Dashboard" width="100%" />
+  <a href="https://github.com/beingmushfiq">
+    <img src="https://github-readme-stats.vercel.app/api?username=beingmushfiq&show_icons=true&hide_border=true&bg_color=000F26&title_color=5277FF&text_color=8391A8&icon_color=2E4AF9&ring_color=2E4AF9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/beingmushfiq">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingmushfiq&layout=compact&hide_border=true&bg_color=000F26&title_color=5277FF&text_color=8391A8&langs_count=8" alt="Most Used Languages" height="170" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/beingmushfiq" title="Explore GitHub Contribution Timeline &amp; Activity">
-    <img src="assets/github-contribution-grid-snake.svg" alt="Autonomous Contribution Grid Snake in DevCenterPoint Cobalt" width="100%" />
+  <a href="https://github.com/beingmushfiq">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingmushfiq&hide_border=true&background=000F26&stroke=1e2d45&ring=2E4AF9&fire=5277FF&currStreakLabel=5277FF&sideLabels=8391A8&currStreakNum=F4F7FF&sideNums=F4F7FF&dates=4a5568" alt="GitHub Streak" width="520" />
   </a>
 </div>
 
 <br />
 
-#### Dynamic Production Dispatch Feed
+<div align="center">
+  <a href="https://github.com/beingmushfiq" title="Contribution Activity">
+    <img src="assets/github-contribution-grid-snake.svg" alt="Contribution Grid" width="100%" />
+  </a>
+</div>
 
-The table below is autonomously maintained via daily GitHub Actions execution, logging the latest public repository commits, system releases, and active deployment updates:
+<br />
+
+#### Recent Activity
 
 <!-- RECENT_ACTIVITY:START -->
 | System / Repository | Dispatch Type | Description &amp; Commit Narrative | Timestamp |
@@ -309,33 +286,25 @@ The table below is autonomously maintained via daily GitHub Actions execution, l
 <br />
 
 <p align="center">
-  <img src="assets/divider-technical.svg" alt="" width="100%" />
+  <img src="assets/divider.svg" alt="" width="100%" />
 </p>
 
-<!-- ================================================================= -->
-<!-- 06 // CONNECT & STUDIO DISPATCH                                   -->
-<!-- ================================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 06 // STUDIO DISPATCH & CONNECT
+### Connect
 
-Available for select enterprise engineering contracts, software architecture consulting, and high-impact digital product development.
+<div align="center">
 
-<br />
+  [**DevCenterPoint**](https://devcenterpoint.com) · [**Portfolio**](https://buildwithmushfiq.vercel.app) · [**LinkedIn**](https://www.linkedin.com/in/buildwithmushfiq) · [**Upwork**](https://www.upwork.com/freelancers/~01d50b68a59610140c) · [**Email**](mailto:beingmushfiq@gmail.com)
 
-| Channel | Destination &amp; Purpose | Link |
-| :--- | :--- | :--- |
-| **Engineering Studio** | **DevCenterPoint** — Enterprise software, cloud platforms &amp; digital solutions | [devcenterpoint.com](https://devcenterpoint.com) |
-| **Personal Portfolio** | **buildwithmushfiq** — Selected systems engineering &amp; AI portfolio | [buildwithmushfiq.vercel.app](https://buildwithmushfiq.vercel.app) |
-| **LinkedIn** | Professional network, engineering discourse &amp; career background | [linkedin.com/in/buildwithmushfiq](https://www.linkedin.com/in/buildwithmushfiq) |
-| **Freelance Direct** | Upwork verified talent profile for enterprise contracting | [upwork.com/freelancers/~01d50b68a59610140c](https://www.upwork.com/freelancers/~01d50b68a59610140c) |
-| **Direct Dispatch** | Direct correspondence for technical inquiries and partnerships | [beingmushfiq@gmail.com](mailto:beingmushfiq@gmail.com) |
+</div>
 
 <br />
 
 <div align="center">
-  <sub>DEVCENTERPOINT · DIGITAL ENGINEERING ATELIER · DHAKA, BANGLADESH · 23.8103° N, 90.4125° E</sub>
+  <sub>Dhaka, Bangladesh · UTC+6</sub>
   <br />
-  <sub><i>“We turn inefficient business processes into software.”</i></sub>
-  <br /><br />
-  <sub>⭐ <i>Found value in these architectural patterns or open-source engines? Repository stars and technical discussions are always appreciated.</i></sub>
+  <sub>Available for software development contracts and technical collaboration.</sub>
 </div>
