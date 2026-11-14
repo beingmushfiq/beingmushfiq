@@ -278,9 +278,6 @@ Right now I'm primarily working on multi-tenant SaaS architecture and production
 | :--- | :--- | :--- | :--- |
 | [**Everything-SEO**](https://github.com/beingmushfiq/Everything-SEO) | `Production Release` | Everything SEO v1.4.0 — Master SEO Orchestrator & Autonomous Prompt Activation | `2026-10-29` |
 | [**Everything-SEO**](https://github.com/beingmushfiq/Everything-SEO) | `Production Release` | Everything SEO v1.3.0: Forensic Triage & Intent Routing Engine | `2026-10-29` |
-| [**Everything-SEO**](https://github.com/beingmushfiq/Everything-SEO) | `Production Release` | Everything SEO v1.2.1: Self-Contained Skill Bundling, Essential Starter Pack & Automated Cursor Rules | `2026-10-29` |
-| [**Everything-SEO**](https://github.com/beingmushfiq/Everything-SEO) | `Production Release` | Everything SEO v1.2.0: SEO-Eval Benchmark Suite, Community Registry & Repository Purification | `2026-10-29` |
-| [**Everything-SEO**](https://github.com/beingmushfiq/Everything-SEO) | `Production Release` | Everything SEO v1.1.0: Universal Agent Interoperability & MCP Architecture | `2026-10-29` |
 <!-- RECENT_ACTIVITY:END -->
 
 <br />
