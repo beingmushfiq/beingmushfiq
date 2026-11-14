@@ -158,19 +158,19 @@ Modular, multi-tenant SaaS e-commerce platform. Full commerce engine with advanc
 
 <br />
 
-#### Ultron AI
+#### AutoCanvas
 
 <div align="center">
-  <a href="https://github.com/beingmushfiq/Ultron" title="Explore Ultron AI Repository">
-    <img src="assets/preview-ultron.svg" alt="Ultron AI — Voice-First Desktop Intelligence" width="100%" />
+  <a href="https://autocanvas.devcenterpoint.com" title="Launch AutoCanvas — AI-Powered Social Media Management SaaS">
+    <img src="assets/preview-autocanvas.svg" alt="AutoCanvas — AI-Powered Social Media Management SaaS" width="100%" />
   </a>
 </div>
 
-Voice-first autonomous desktop agent built in Python. 51 native execution tools spanning system diagnostics, window manipulation, file indexing, and process scripting. Features a hardware-accelerated holographic HUD, acoustic waveform lip-sync, and a local socket bridge for secure command dispatch from an Android companion app.
+AI-powered social media management SaaS for planning, creating, scheduling, publishing, and analyzing content across multiple platforms. Keeps brands in rhythm through intelligent content generation, automated multi-channel workflows, unified scheduling calendars, and cross-platform performance analytics.
 
-**Stack:** `Python` `Transformers` `Computer Vision` `Speech Recognition` `Socket Protocols`
+**Stack:** `TypeScript` `React` `Next.js` `AI Generation` `Tailwind CSS`
 <br />
-[Repository](https://github.com/beingmushfiq/Ultron)
+[Live Platform](https://autocanvas.devcenterpoint.com) · [Repository](https://github.com/beingmushfiq/AutoCanvas)
 
 <br />
 
@@ -181,8 +181,8 @@ Voice-first autonomous desktop agent built in Python. 51 native execution tools 
 
 | Project | What It Does | Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **Ultron AI** | Voice-first autonomous desktop agent — 51 native execution tools, holographic HUD, and Android companion bridge | `Python` `Transformers` `Speech` | [Repo](https://github.com/beingmushfiq/Ultron) |
 | **CQMP** | Real-time clinic queue management — connects receptionists, doctors, and patients through a live-updating dashboard | `TypeScript` `React` | [Live](https://cqmp.vercel.app) · [Repo](https://github.com/beingmushfiq/CQMP) |
-| **AutoCanvas** | AI-powered social media management SaaS — plan, create, schedule, and publish across platforms | `TypeScript` | [Live](https://autocanvas.devcenterpoint.com) · [Repo](https://github.com/beingmushfiq/AutoCanvas) |
 | **KothaLipi AI** | Bengali multimodal AI — document OCR, grammar proofreading, Sadhu-Cholit conversion, dialect-resilient speech-to-text | `TypeScript` `Python` `Transformers` | [Repo](https://github.com/beingmushfiq/KothaLipi-AI) |
 | **CodeCrafts Invoice** | Invoice and proposal generator for agencies and freelancers — quotations, payment schedules, PDF export | `JavaScript` | [Live](https://code-crafts-invoice-creator.vercel.app) · [Repo](https://github.com/beingmushfiq/CodeCrafts-Invoice-Creator) |
 | **Baki Bondhu** | Voice-first business management — operators manage their business by speaking in their native language | `Kotlin` | [Repo](https://github.com/beingmushfiq/Baki-Bondhu) |
