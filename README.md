@@ -244,19 +244,15 @@ Right now I'm primarily working on multi-tenant SaaS architecture and production
 ### GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/beingmushfiq">
-    <img src="https://github-readme-stats.vercel.app/api?username=beingmushfiq&show_icons=true&hide_border=true&bg_color=000F26&title_color=5277FF&text_color=8391A8&icon_color=2E4AF9&ring_color=2E4AF9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/beingmushfiq">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingmushfiq&layout=compact&hide_border=true&bg_color=000F26&title_color=5277FF&text_color=8391A8&langs_count=8" alt="Most Used Languages" height="170" />
+  <a href="https://github.com/beingmushfiq?tab=repositories" title="Verified Codebase Distribution &amp; Engineering Metrics">
+    <img src="assets/activity-metrics.svg" alt="Mushfiqur Rahman — Codebase Distribution and Engineering Metrics" width="100%" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/beingmushfiq">
+  <a href="https://github.com/beingmushfiq" title="GitHub Contribution Streak">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingmushfiq&hide_border=true&background=000F26&stroke=1e2d45&ring=2E4AF9&fire=5277FF&currStreakLabel=5277FF&sideLabels=8391A8&currStreakNum=F4F7FF&sideNums=F4F7FF&dates=4a5568" alt="GitHub Streak" width="520" />
   </a>
 </div>
