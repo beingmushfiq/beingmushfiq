@@ -272,8 +272,7 @@ Right now I'm primarily working on multi-tenant SaaS architecture and production
 <!-- RECENT_ACTIVITY:START -->
 | System / Repository | Dispatch Type | Description &amp; Commit Narrative | Timestamp |
 | :--- | :--- | :--- | :--- |
-| [**Everything-SEO**](https://github.com/beingmushfiq/Everything-SEO) | `Production Release` | Everything SEO v1.4.0 — Master SEO Orchestrator & Autonomous Prompt Activation | `2026-10-29` |
-| [**Everything-SEO**](https://github.com/beingmushfiq/Everything-SEO) | `Production Release` | Everything SEO v1.3.0: Forensic Triage & Intent Routing Engine | `2026-10-29` |
+| [**Baki-Bondhu**](https://github.com/beingmushfiq/Baki-Bondhu) | `Production Release` | v2.0.0: Production-Grade Offline-First Ledger & Voice Intelligence Overhaul (বাকী বন্ধু ২.০) | `2026-11-15` |
 <!-- RECENT_ACTIVITY:END -->
 
 <br />
