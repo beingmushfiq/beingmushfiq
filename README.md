@@ -272,6 +272,7 @@ Right now I'm primarily working on multi-tenant SaaS architecture and production
 <!-- RECENT_ACTIVITY:START -->
 | System / Repository | Dispatch Type | Description &amp; Commit Narrative | Timestamp |
 | :--- | :--- | :--- | :--- |
+| [**Baki-Bondhu**](https://github.com/beingmushfiq/Baki-Bondhu) | `Production Release` | v2.2.0 — Google Sign-In Fixed · Archive Zone · In-App Updates · Full Responsive UI | `2026-11-17` |
 | [**Baki-Bondhu**](https://github.com/beingmushfiq/Baki-Bondhu) | `Production Release` | 🚀 Baki Bondhu v2.1.0 — ইন্টারেক্টিভ লাইভ খাতা স্টুডিও, নির্ভুল হিসাব ইঞ্জিন ও ফুল এআই/এসইও আর্কিটেকচার (Interactive Live Ledger Studio, Zero-Drift Paisa Math Engine & Full AI/SEO Architecture) | `2026-11-16` |
 | [**Baki-Bondhu**](https://github.com/beingmushfiq/Baki-Bondhu) | `Production Release` | v2.0.0: Production-Grade Offline-First Ledger & Voice Intelligence Overhaul (বাকী বন্ধু ২.০) | `2026-11-15` |
 <!-- RECENT_ACTIVITY:END -->
