@@ -276,7 +276,6 @@ Right now I'm primarily working on multi-tenant SaaS architecture and production
 | [**Baki-Bondhu**](https://github.com/beingmushfiq/Baki-Bondhu) | `Production Release` | v2.2.2 — In-App Update Redirect Parsing Fix, Mobile UI Clipping Polish & Fast Cloud Diagnostics (বাংলা: সংস্করণ ২.২.২ — ইন-অ্যাপ আপডেট পার্সিং ফিক্স, মোবাইল UI টেক্সট ক্লিপিং সমাধান ও দ্রুত ক্লাউড ব্যাকআপ ডায়াগনস্টিক) | `2026-11-22` |
 | [**Baki-Bondhu**](https://github.com/beingmushfiq/Baki-Bondhu) | `Production Release` | BakiBondhu v2.2.1 — কাস্টমার এডিট ও ডিলিট, ক্লাউড ব্যাকআপ ফিক্স এবং UI রিফাইনামেন্ট (English Title: BakiBondhu v2.2.1 — Customer Management, Cloud Backup Fix & UI Polish) | `2026-11-22` |
 | [**Baki-Bondhu**](https://github.com/beingmushfiq/Baki-Bondhu) | `Production Release` | v2.2.0 — Google Sign-In Fixed · Archive Zone · In-App Updates · Full Responsive UI | `2026-11-17` |
-| [**Baki-Bondhu**](https://github.com/beingmushfiq/Baki-Bondhu) | `Production Release` | 🚀 Baki Bondhu v2.1.0 — ইন্টারেক্টিভ লাইভ খাতা স্টুডিও, নির্ভুল হিসাব ইঞ্জিন ও ফুল এআই/এসইও আর্কিটেকচার (Interactive Live Ledger Studio, Zero-Drift Paisa Math Engine & Full AI/SEO Architecture) | `2026-11-16` |
 <!-- RECENT_ACTIVITY:END -->
 
 <br />
